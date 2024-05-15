@@ -1,9 +1,6 @@
+Descripsi project
+- membuat tugas Gradle sederhana untuk menerima parameter CLI dan mencetaknya dengan pesan ucapan
 
-- buat tugas Gradle sederhana untuk menerima parameter CLI dan mencetaknya dengan pesan ucapan
-- Proyek skrip Gradle harus dibuat di repositori yang berbeda dan dorong ke GitHub
-Berikut adalah langkah-langkah untuk membuat tugas khusus Gradle dan menambahkan pustaka:
-
-Buat proyek Gradle baru dengan menjalankan perintah "gradle init --type java-library". Ini akan membuat proyek Gradle baru dengan struktur direktori dan file build.gradle awal.
 
 Cara menjalan run:
 - download file dari github
